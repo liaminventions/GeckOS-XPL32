@@ -1,5 +1,9 @@
 
 = GeckOS Operating System for the 6502 processor
+
+# WARNING! THIS IS NOT FUNCTIONAL ON THE XPL YET! (it was just forked recently)
+
+
 (c) 1989-2020 A. Fachat (afachat@gmx.de)
 
 This repository maintains the GeckOS/A65 source.
